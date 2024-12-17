@@ -32,7 +32,7 @@ const CLOAKER_CONFIG = {
 }
 
 const PROTECTION_CONFIG = {
-  enabled: true, // Ativa/desativa todas proteções
+  enabled: false, // Ativa/desativa todas proteções
   redirectUrl: 'https://lua777bet.online/', // URL para redirecionamento quando detectar DevTools
 }
 
